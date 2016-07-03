@@ -8,7 +8,7 @@
 <title>Home page</title>
 </head>
 <body>
-<h1>Home Page</h1>
+<h1>This is our Home Page</h1>
 <p>
 ${message}<br/>
 <a href="${pageContext.request.contextPath}/team/add.html">Add new team</a><br/>
